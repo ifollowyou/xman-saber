@@ -13,7 +13,7 @@ import java.io.File;
 /**
  * XML配置文件合法性校验器。
  *
- * @author ifollowyou
+ * @author xman
  */
 public class XmlValidator {
     /**
